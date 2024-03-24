@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\asigmentvippro\quanlydiem\bin\Debug\net8.0\assigment_kiemthunangcao_pd09444.exe
+C:\Users\admin\Desktop\asigmentvippro\quanlydiem\bin\Debug\net8.0\assigment_kiemthunangcao_pd09444.deps.json
+C:\Users\admin\Desktop\asigmentvippro\quanlydiem\bin\Debug\net8.0\assigment_kiemthunangcao_pd09444.runtimeconfig.json
+C:\Users\admin\Desktop\asigmentvippro\quanlydiem\bin\Debug\net8.0\assigment_kiemthunangcao_pd09444.dll
+C:\Users\admin\Desktop\asigmentvippro\quanlydiem\bin\Debug\net8.0\assigment_kiemthunangcao_pd09444.pdb
+C:\Users\admin\Desktop\asigmentvippro\quanlydiem\obj\Debug\net8.0\assigment_kiemthunangcao_pd09444.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\asigmentvippro\quanlydiem\obj\Debug\net8.0\assigment_kiemthunangcao_pd09444.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\asigmentvippro\quanlydiem\obj\Debug\net8.0\assigment_kiemthunangcao_pd09444.AssemblyInfo.cs
+C:\Users\admin\Desktop\asigmentvippro\quanlydiem\obj\Debug\net8.0\assigment_kiemthunangcao_pd09444.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\asigmentvippro\quanlydiem\obj\Debug\net8.0\assigment_kiemthunangcao_pd09444.dll
+C:\Users\admin\Desktop\asigmentvippro\quanlydiem\obj\Debug\net8.0\refint\assigment_kiemthunangcao_pd09444.dll
+C:\Users\admin\Desktop\asigmentvippro\quanlydiem\obj\Debug\net8.0\assigment_kiemthunangcao_pd09444.pdb
+C:\Users\admin\Desktop\asigmentvippro\quanlydiem\obj\Debug\net8.0\assigment_kiemthunangcao_pd09444.genruntimeconfig.cache
+C:\Users\admin\Desktop\asigmentvippro\quanlydiem\obj\Debug\net8.0\ref\assigment_kiemthunangcao_pd09444.dll

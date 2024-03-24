@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\asigmentvippro\quanlydiem\bin\Debug\net8.0\quanlydiem.exe
+C:\Users\admin\Desktop\asigmentvippro\quanlydiem\bin\Debug\net8.0\quanlydiem.deps.json
+C:\Users\admin\Desktop\asigmentvippro\quanlydiem\bin\Debug\net8.0\quanlydiem.runtimeconfig.json
+C:\Users\admin\Desktop\asigmentvippro\quanlydiem\bin\Debug\net8.0\quanlydiem.dll
+C:\Users\admin\Desktop\asigmentvippro\quanlydiem\bin\Debug\net8.0\quanlydiem.pdb
+C:\Users\admin\Desktop\asigmentvippro\quanlydiem\obj\Debug\net8.0\quanlydiem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\asigmentvippro\quanlydiem\obj\Debug\net8.0\quanlydiem.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\asigmentvippro\quanlydiem\obj\Debug\net8.0\quanlydiem.AssemblyInfo.cs
+C:\Users\admin\Desktop\asigmentvippro\quanlydiem\obj\Debug\net8.0\quanlydiem.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\asigmentvippro\quanlydiem\obj\Debug\net8.0\quanlydiem.dll
+C:\Users\admin\Desktop\asigmentvippro\quanlydiem\obj\Debug\net8.0\refint\quanlydiem.dll
+C:\Users\admin\Desktop\asigmentvippro\quanlydiem\obj\Debug\net8.0\quanlydiem.pdb
+C:\Users\admin\Desktop\asigmentvippro\quanlydiem\obj\Debug\net8.0\quanlydiem.genruntimeconfig.cache
+C:\Users\admin\Desktop\asigmentvippro\quanlydiem\obj\Debug\net8.0\ref\quanlydiem.dll
